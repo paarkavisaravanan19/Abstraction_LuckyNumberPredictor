@@ -39,9 +39,6 @@ namespace Abstraction
             {
                 Console.WriteLine("Provide the valid date of birth");
             }
-            
-
-
         }
     }
     abstract class LuckyNumberPredictor
